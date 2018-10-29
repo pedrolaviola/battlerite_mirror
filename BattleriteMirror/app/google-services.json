@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546821993688",
+    "firebase_url": "https://battleritemirror.firebaseio.com",
+    "project_id": "battleritemirror",
+    "storage_bucket": "battleritemirror.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546821993688:android:bfb88bd0345c671f",
+        "android_client_info": {
+          "package_name": "com.laviola.battleritemirror"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546821993688-8iqf5a7jn298hdi80qmfr97fu3tp045i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laviola.battleritemirror",
+            "certificate_hash": "dfbb9e30db2ebc9020ee05b20576b6db171abe39"
+          }
+        },
+        {
+          "client_id": "546821993688-02f9gn8rk84g2c7ctc1sec2isutsvk96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOI41f5eqQ6ISUMnceiexHXVxFucFwyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546821993688-02f9gn8rk84g2c7ctc1sec2isutsvk96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
